@@ -1,0 +1,21 @@
+run Git Bash
+
+
+
+for first time
+git config --global user.email "kedman1234@gmail.com"
+git config --global user.name "Kedar Kulkarni"
+
+
+cd "working dir path"
+
+git init
+
+git remote add origin http://github.com/kedman1234/SimpleApp.git
+https://github.com/snehashinde1989/OffCanvasNavigation.git
+
+git add .
+
+git commit -a -m "comment for onpen source"
+
+git push -u origin master
